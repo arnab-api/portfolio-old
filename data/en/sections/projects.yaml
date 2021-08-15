@@ -1,0 +1,127 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Ongoing
+  filter: "ongoing"
+- name: Undergrad Projects
+  filter: "undergrad"
+- name: Self-Interest
+  filter: "self"
+
+# your projects
+projects:
+- name: COVID-19 in Bangladesh
+  # logo: /images/sections/projects/kubernetes.png
+  role: Lead Developer
+  timeline: "March 2021 - Present"
+  repo: https://github.com/arnab-api/covid-website # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: "http://erdos.dsm.fordham.edu:3000"  
+  summary: An interactive website built with ReactJS and Flask to showcase our work on tracking and forecasting COVID‐19 situation in Bangladesh. The site is live at <a href="http://erdos.dsm.fordham.edu:3000" target="_blank">erdos.dsm.fordham.edu:3000</a>. Please check the site from a desktop/laptop/tab. The site is not optimized for vertical smartphone screens.
+  tags: ["ongoing", "COVID-19", "Visualization"]
+
+- name: Attention Checker
+  # logo: /images/sections/projects/tensorflow.png
+  role: Researcher
+  timeline: "June 2021 - Present"
+  repo: https://github.com/arnab-api/AttentionChecker--Student
+  #url: ""
+  summary: Calculating the attention score of an online class based on students’ gaze tracking, under supervision of Dr. Mohammad Ruhul Amin, Assistant Professor, Fordham University.
+  tags: ["ongoing", "Computer Vision", "ML", "Statistical Analysis"]
+
+- name: Sentece Similarity Measurement for Bangla
+  # logo: /images/sections/projects/tensorflow.png
+  role: Researcher
+  timeline: "March 2021"
+  repo: https://github.com/arnab-api/Sentence-Similarity
+  #url: ""
+  summary: Experimented with Siamese Neural Network architecture to calculate a similarity score between 2 sentence written in Bangla.
+  tags: ["self", "NLP", "ML"]
+
+- name: Algorithm Simulator
+  # logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "2016"
+  repo: https://github.com/arnab-api/Algorithm-Simulator
+  #url: ""
+  summary: A desktop application aiming to help newbie competitive programmers to get a basic understanding of vastly used basic algorithms, data structures and different kinds of sorting techniques.
+  tags: ["undergrad", "JAVA", "Algorithms", "Data Structures"]
+
+- name: DareIt?!
+  # logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "2016"
+  repo: https://github.com/arnab-api/Algorithm-Simulator
+  #url: ""
+  summary:  An arcade game for android platforms.
+  tags: ["undergrad", "Game", "C#", "Unity2D"]
+
+- name: Travel Santa
+  # logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "2016"
+  repo: https://github.com/arnab-api/TravelSanta
+  #url: ""
+  summary:  A web application aiming to help tourists to find hotels and restaurants near tourist spots.
+  tags: ["undergrad", "Web", "Laravel"]
+
+- name: Shurodhwani
+  # logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "2017"
+  repo: https://github.com/arnab-api/shurodhwani
+  #url: ""
+  summary:  An online audio sharing and listening platform.
+  tags: ["undergrad", "Web", "Laravel"]
+
+- name: EduHelper
+  # logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "2017"
+  repo: https://github.com/arnab-api/EduHelper
+  #url: ""
+  summary:  A web application aiming to help instructors in making and sharing tutorials.
+  tags: ["undergrad", "Web", "Laravel"]
+
+- name: Box Office Revenue Analysis
+  # logo: /images/sections/projects/tensorflow.png
+  role: Researcher
+  timeline: "April 2021 - June 2021"
+  repo: https://github.com/arnab-api/Movie-Analysis
+  #url: ""
+  summary: Prepared a huge new dataset by scraping different sites. Performed statistical analysis to find out how revenue generated in box-office is related to different pre-released attributes. 
+  tags: ["self", "Statistical Analysis", "ML"]
+
+# - name: A sample academic paper
+#   role: Team Lead
+#   timeline: "Jan 2017 - Nov 2017"
+#   url: "https://www.example.com"
+#   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
+#   tags: ["academic","iot"]
+
+# - name: Nocode
+#   logo: /images/sections/projects/no-code.png
+#   role: Nothing
+#   timeline: "Oct 2019 - Dec 2019"
+#   repo: https://github.com/kelseyhightower/nocode
+#   #url: ""
+#   summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+#   tags: ["hobby", "fun"]
+
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["hobby","hugo","theme","professional"]

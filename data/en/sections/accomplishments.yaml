@@ -1,0 +1,31 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: 3rd place at SAMSUNG Research ROBOT HACKATHON-2018
+  timeline: "December 2018"
+  organization:
+    name: Samsung Research
+    url: https://research.samsung.com
+  courseOverview: This competition allowed participants to work with freshly manufactured lines of robots by Samsung. I participated in that competition with an idea called <b>BFF Robot</b> as part of the team <i>SRBD_Hyperbola</i>. The idea was that a robot would become the daily companion of a child, adapting to the child as s/he grows; eventually, the child and the robot would become <i>Best Friends Forever</i>. We secured 3<sup>rd</sup> place among more than 500 teams participating in that contest from all over the world.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/robot%20hackathon.jpg"
+
+- name: Samsung Professional
+  timeline: "November 2018"
+  organization:
+    name: SAMSUNG R&D Institute, Bangladesh (SRBD)
+    url: https://research.samsung.com/srbd
+  courseOverview: "Internal capability certification of Samsung Electronics. Attined professional certificate at my second try. I was the only one that attained the certificate in the test held on 24 November, 2018."
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/samsung%20pro.jpg"
+
+ 
+

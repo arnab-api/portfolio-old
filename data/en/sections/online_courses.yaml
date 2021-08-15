@@ -1,0 +1,138 @@
+# section information
+section:
+  name: Online Courses
+  id: accomplishments
+  enable: true
+  weight: 10
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: "DS102X: Machine Learning for Data Science and Analytics"
+  timeline: "February 25, 2021"
+  organization:
+    name: ColumbiaX, edX
+    url: https://www.edx.org/school/columbiax
+  courseOverview: In this course I learned,
+    <ul>
+      <li>What machine learning is and how it is related to statistics and data analysis</li>
+      <li>How machine learning uses computer algorithms to search for patterns in data</li>
+      <li>How to use data patterns to make decisions and predictions with real-world examples from healthcare involving genomics and preterm birth</li>
+      <li>How to uncover hidden themes in large collections of documents using topic modeling</li>
+      <li>How to prepare data, deal with missing data and create custom data analysis solutions for different industries</li>
+      <li>Basic and frequently used algorithmic techniques including sorting, searching, greedy algorithms and dynamic programming</li>
+    <ul>
+  certificateURL: "https://courses.edx.org/certificates/b57ae119841940608c9aff0295d82336"
+
+- name: "DS101X: Statistical Thinking for Data Science and Analytics"
+  timeline: "February 7, 2021"
+  organization:
+    name: ColumbiaX, edX
+    url: https://www.edx.org/school/columbiax
+  courseOverview: In this course I learned,
+    <ul>
+      <li>Data collection, analysis and inference</li>
+      <li>Data classification to identify key traits and customers</li>
+      <li>Conditional Probability-How to judge the probability of an event, based on certain conditions</li>
+      <li>How to use Bayesian modeling and inference for forecasting and studying public opinion</li>
+      <li>Basics of Linear Regression</li>
+      <li>Data Visualization:- How to create use data to create compelling graphics</li>
+    <ul>
+  certificateURL: "https://courses.edx.org/certificates/13546bcfe6754c218ce60b93e761b8b4"
+
+- name: "DL0101EN: Deep Learning Fundamentals with Keras"
+  timeline: "January 19, 2021"
+  organization:
+    name: IBM, edX
+    url: https://www.edx.org/school/ibm
+  courseOverview: In this course I learned,
+    <ul>
+      <li>Some exciting applications of deep learning and why it is really rewarding to learn how to leverage deep learning skills.</li>
+      <li>Neural networks and how they learn and update their weights and biases.</li>
+      <li>Vanishing gradient problem and how to avoid/handle it.</li>
+      <li>Building a regression model using the Keras library.</li>
+      <li>Building a classification model using the Keras library.</li>
+      <li>Supervised deep learning models, such as convolutional neural networks and recurrent neural networks, and how to build a convolutional neural network using the Keras library.</li>
+      <li>Unsupervised learning models such as autoencoders.</li>
+    <ul>
+  certificateURL: "https://courses.edx.org/certificates/5f50e3d1168a4f1ba226875426b89910"
+
+- name: "Mathematics for Machine Learning: Linear Algebra"
+  timeline: "December 19, 2020"
+  organization:
+    name: Imperial College London, Coursera
+    url: https://www.coursera.org/learn/linear-algebra-machine-learning
+  courseOverview: 1<sup>st</sup> part of <i>Mathematics for Machine Learning</i> series. In this course I learned about the basics of Linear Algebra and how to apply these concepts to Machine Learning. I learned about Eigenvalues and Eigenvectors, Transformation Matrix, the workings of simple Page-Ranking algorithms etc. in this course.<br><br> Grade achieved:&nbsp; <b>96%</b>
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/2EC2AEZ59QZY"
+
+- name: "Mathematics for Machine Learning: Multivariate Calculus"
+  timeline: "January 1, 2021"
+  organization:
+    name: Imperial College London, Coursera
+    url: https://www.coursera.org/learn/linear-algebra-machine-learning
+  courseOverview: 2<sup>nd</sup> part of <i>Mathematics for Machine Learning</i> series. In this course I learned about basics of Linear Regression, Vector Calculus, Multivariable Calculus, Gradient Descent etc. <br><br> Grade achieved:&nbsp; <b>96.75%</b>
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/MX3VVAAFGBK8"
+
+- name: "Deep Learning: Face Recognition"
+  timeline: "May, 2019"
+  organization:
+    name: Lynda
+    url: https://www.linkedin.com/learning/deep-learning-face-recognition
+  courseOverview: Learned the steps involved in coding facial feature detection, representing a face as a set of measurements, and encoding faces. Also learned how to repurpose and adjust pre-existing systems.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/DeepLearning_FaceRecognition_CertificateOfCompletion.pdf"
+
+- name: "Building Your First iOS App"
+  timeline: "March, 2019"
+  organization:
+    name: Lynda
+    url: https://www.linkedin.com/learning/building-your-first-ios-13-app
+  courseOverview: Was required to implement an iOS application for iPhones for sensor data collection when I was working at SRBD. Also implemented/translated some modules of existing android apps for iOS.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/BuildingYourFirstiOSApp_CertificateOfCompletion.pdf"
+
+- name: "iOS 12 Develepment Essential Training 1: Fundamentals, UI, and Architecture"
+  timeline: "April, 2019"
+  organization:
+    name: Lynda
+    url: https://www.linkedin.com/learning/ios-12-development-essential-training-1-fundamentals-ui-and-architecture
+  courseOverview: Was required to implement an iOS application for iPhones for sensor data collection when I was working at SRBD. Also implemented/translated some modules of existing android apps for iOS.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/iOS12DevelopmentEssentialTraining_1FundamentalsUIandArchitecture_CertificateOfCompletion.pdf"
+
+- name: "Swift 4 Essential Training"
+  timeline: "December, 2018"
+  organization:
+    name: Lynda
+    # url: https://www.linkedin.com/learning/ios-12-development-essential-training-1-fundamentals-ui-and-architecture
+  # courseOverview: Was required to implement an iOS application for iPhones for sensor data collection when I was working at SRBD. Also implemented/translated some modules of existing android apps for iOS.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/Swift4EssentialTraining_CertificateOfCompletion.pdf"
+
+- name: "Learning C++ Pointers"
+  timeline: "March, 2019"
+  organization:
+    name: Lynda
+    url: https://www.linkedin.com/learning/learning-c-plus-plus-pointers
+  courseOverview: Took this course when I was understanding the code-flow of <i>V8</i> engine, the module of <i>chromium</i> browsers that compiles <i>JavaScript</i>. Refreshed my knowledge about c++ pointers.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/LearningC%2B%2BPointers_CertificateOfCompletion.pdf"
+
+- name: "Big Data Foundations: Techniques and Concepts"
+  timeline: "March, 2019"
+  organization:
+    name: Lynda
+    # url: https://www.linkedin.com/learning/deep-learning-face-recognition
+  courseOverview: Took this course out of self-interest.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/BigDataFoundations_TechniquesandConcepts_CertificateOfCompletion.pdf"
+
+- name: "Learning Django"
+  timeline: "March, 2019"
+  organization:
+    name: Lynda
+    url: https://www.linkedin.com/learning/learning-django
+  courseOverview: Took this course out of self-interest.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/LearningDjango_CertificateOfCompletion.pdf"
+
+
+
+ 
+
