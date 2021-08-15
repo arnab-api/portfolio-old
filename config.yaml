@@ -36,7 +36,7 @@ outputs:
   - JSON
 
 # Enable Google Analytics
-googleAnalytics: UA-122321624-2
+# googleAnalytics: UA-122321624-2
 
 # Enable global emoji support
 enableEmoji: true
@@ -56,7 +56,7 @@ params:
   # GitHub repo of your site
   gitRepo: https://github.com/arnab-api/arnab-api.github.io
   # Default branch of your Git repo
-  gitBranch: master
+  gitBranch: gh-page
 
   # Configure various features of this theme
   features:
