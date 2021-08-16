@@ -18,7 +18,7 @@ company:
 resume: "files/Arnab_Sen_Sharma.pdf"
 
 # a summary about you
-summary: 'I strongly believe in the potentials of machine learning and I want to incorporate concepts of ML to build systems that would solve real-world problems and have significant positive impacts on human lives. My research interests are particularly oriented towards Computer Vision, Robotics, Natural Language Processing, Reinforcement Learning, etc.'
+summary: 'My research interests are particularly oriented towards <b>Data Analysis</b>, <b>Computer Vision</b>, and <b>Natural Language Processing</b>. I have some small experiences working in <b>Robotics</b>. Recently I started learning about <b>Genetic Algorithms</b> and <b>Reinforcement Learning</b> concepts.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -29,23 +29,23 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/arnab-api"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/arnab-api/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/arnabsensharma.api"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
