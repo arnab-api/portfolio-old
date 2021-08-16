@@ -86,7 +86,7 @@
           <h5>{{ i18n "contact_me" }}</h5>
           <ul>
             {{ range $key,$value:= $author.contactInfo }}
-            <li><span>{{ title $key }}: </span> <span>{{ $value }}</span></li>
+            <li><span>{{ $value }}</span></li>
             {{ end }}
           </ul>
         </div>
