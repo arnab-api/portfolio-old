@@ -57,7 +57,7 @@ other = "out of"
 other = "Publications"
 
 [taken_courses]
-other = "Taken Courses"
+other = "Taken Courses Include"
 
 [course_name]
 other = "Course Name"
@@ -66,7 +66,7 @@ other = "Course Name"
 other = "Total Credit"
 
 [obtained_credit]
-other = "Obtained Credit"
+other = "Obtained Grade Point"
 
 [extracurricular_activities]
 other = "Extracurricular Activities"

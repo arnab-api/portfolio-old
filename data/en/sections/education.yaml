@@ -41,18 +41,61 @@ degrees:
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 4.00
+    - name: Machine Learning
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Artificial Intelligence
+      achieved: 4.00/4.00
+      outOf: 5
+    - name: Structured Programming Language
+      achieved: 4.00/4.00
+      outOf: 6
+    - name: Discrete Mathematics
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Data Structures
+      achieved: 4.00/4.00
+      outOf: 5
+    - name: Algorithm Design and Analysis
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Object Oriented Programming Language
+      achieved: 4.00/4.00
+      outOf: 6
+    - name: Numerical Analysis
+      achieved: 4.00/4.00
+      outOf: 3.5
+    - name: Basic Statistics and Probability
+      achieved: 3.75/4.00
       outOf: 4
-    - name: Network Security
-      achieved: 4.00
-      outOf: 4
-    - name: Operating System
-      achieved: 4.00
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 4.00
-      outOf: 4
+    - name: Database Systems
+      achieved: 3.875/4.00
+      outOf: 6
+    - name: Operating System and System Programming
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Communication Engineering
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Microprocessor and Interfacing
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Computer Networking
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Computer Graphics and Image Processing
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Compiler Construction
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Digital Signal Processing
+      achieved: 4.00/4.00
+      outOf: 4.5
+    - name: Bioinformatics
+      achieved: 4.00/4.00
+      outOf: 4.5
+
   # publications: #(optional)
   # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #   url: "#"
