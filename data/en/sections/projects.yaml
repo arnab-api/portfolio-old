@@ -34,7 +34,7 @@ projects:
   # logo: /images/sections/projects/tensorflow.png
   role: Researcher
   timeline: "June 2021 - Present"
-  repo: https://github.com/arnab-api/AttentionChecker--Student
+  repo: https://github.com/arnab-api/Attention-Checker
   #url: ""
   summary: Calculating the attention score of an online class based on students’ gaze tracking, under supervision of Dr. Mohammad Ruhul Amin, Assistant Professor, Fordham University.
   tags: ["ongoing", "Computer Vision", "ML", "Statistical Analysis"]
