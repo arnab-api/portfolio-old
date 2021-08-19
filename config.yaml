@@ -51,7 +51,7 @@ params:
   logo:
     main: /images/author/night-circle.png
     inverted: /images/author/smiling-circle.png
-    favicon: /images/site/favicon.png
+    favicon: /images/author/night-circle.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/arnab-api/arnab-api.github.io
