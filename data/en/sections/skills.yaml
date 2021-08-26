@@ -35,4 +35,9 @@ skills:
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github"
-  url: "https://git-scm.com/"
+
+- name: JASP
+  logo: /images/sections/skills/jasp.png
+  summary: "Used JASP for statistical analysis. Love this software."
+  url: "https://jasp-stats.org/"
+
