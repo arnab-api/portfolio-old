@@ -100,14 +100,6 @@ accomplishments:
   courseOverview: Was required to implement an iOS application for iPhones for sensor data collection when I was working at SRBD. Also implemented/translated some modules of existing android apps for iOS.
   certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/iOS12DevelopmentEssentialTraining_1FundamentalsUIandArchitecture_CertificateOfCompletion.pdf"
 
-- name: "Swift 4 Essential Training"
-  timeline: "December, 2018"
-  organization:
-    name: Lynda
-    # url: https://www.linkedin.com/learning/ios-12-development-essential-training-1-fundamentals-ui-and-architecture
-  # courseOverview: Was required to implement an iOS application for iPhones for sensor data collection when I was working at SRBD. Also implemented/translated some modules of existing android apps for iOS.
-  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/Swift4EssentialTraining_CertificateOfCompletion.pdf"
-
 - name: "Learning C++ Pointers"
   timeline: "March, 2019"
   organization:
@@ -132,7 +124,13 @@ accomplishments:
   courseOverview: Took this course out of self-interest.
   certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/LearningDjango_CertificateOfCompletion.pdf"
 
-
+- name: "Swift 4 Essential Training"
+  timeline: "December, 2018"
+  organization:
+    name: Lynda
+    # url: https://www.linkedin.com/learning/ios-12-development-essential-training-1-fundamentals-ui-and-architecture
+  # courseOverview: Was required to implement an iOS application for iPhones for sensor data collection when I was working at SRBD. Also implemented/translated some modules of existing android apps for iOS.
+  certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/Swift4EssentialTraining_CertificateOfCompletion.pdf"
 
  
 
