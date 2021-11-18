@@ -69,8 +69,8 @@ experiences:
     responsibilities:
     - Worked on a Robot Simulation Project. 
       <ul>
-        <li>Coded the core features of Object Detection and Recognition module of the robot using <b>YOLO</b> library</li>
-        <li>Baby-Crying sound detection on Android devices using <b>Tensorflow-lite</b></li>
+        <li>Coded the core features of Object Detection and Recognition module of the robot using <b>YOLOv3</b>.</li>
+        <li>Baby-Crying sound detection on Android devices using <b>Tensorflow-lite</b>.</li>
       </ul>
     - Implemented some features of Chromium-efl for Tizen wearable (c++).
     - Designed and developed apps for Android platform (java).
