@@ -25,7 +25,7 @@ Computer Vision + ... ...
 1. Portal for teaching sign language
     - Might be a bit light to be considered as thesis work.
 
-2. Alternative Text v2.0
+2. Alternative Text v2.0 (Mongoldip?)
     - Interactive alt-text to enhance browsing experience for blind
       or visually impared users.
     - The goal is to design and build an NPM package so that the service can
