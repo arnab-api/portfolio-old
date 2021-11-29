@@ -11,11 +11,11 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Department of Computer Science and Engineering, Shahjalal University of Science and Technology
+    name: Department of Computer Science and Engineering,<br/>Shahjalal University of Science and Technology (SUST)
     url: "https://www.sust.edu/d/cse"
     location: Sylhet
     # company overview
-    overview: My faculty profile is available at https://www.sust.edu/d/cse/faculty-profile-detail/700.
+    overview: Kindly checkout my faculty profile at SUST <a href=https://www.sust.edu/d/cse/faculty-profile-detail/700 target="_blank" rel="noopener"><b style="color:#00004d; font-family:'Times New Roman'">HERE</b></a>.
   positions:
   - designation: Lecturer
     start: July, 2019

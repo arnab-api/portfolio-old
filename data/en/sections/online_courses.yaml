@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Online Courses
+  name: Completed Online Courses
   id: accomplishments
   enable: true
   weight: 10
