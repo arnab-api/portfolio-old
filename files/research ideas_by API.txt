@@ -14,7 +14,7 @@ NLP + ... ...
 3. Anton
     - Conversational Bot that can impersonate a specific human being or anything.
       Search "Google's AI LaMDA"
-    - I am specificly interested the applications of such a system in healthcare
+    - I am specifically interested the applications of such a system in healthcare
       and education.
 ___________________________________________________________________
 
@@ -23,6 +23,7 @@ ___________________________________________________________________
 Computer Vision + ... ...
 -------------------------------------------------------------------
 1. Portal for teaching sign language
+    - Exactly what it sounds like.
     - Might be a bit light to be considered as thesis work.
 
 2. Alternative Text v2.0 (Mongoldip?)
@@ -46,6 +47,7 @@ Computer Vision + ... ...
     - Dataset will be hard to manage.
 
 4. Auto report generator from medical images (X-Ray, CT Scan)
+    - Recenty started working in this project with an awesome group from SEC. 
     - Will require medical knowledge (at least high level). Would be
       nice if we can add a Doctor or a person who already has some
       background knowledge.
