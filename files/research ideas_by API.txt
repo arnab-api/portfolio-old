@@ -1,32 +1,32 @@
->>>>>>>>>>>>>>>>>>>>>>>> Thesis/Project ideas >>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thesis/Project ideas >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-___________________________________________________________________
+________________________________________________________________________________________
 NLP + ... ... 
--------------------------------------------------------------------
-1. Hate Speech/Abusive Language Modeling in Social Media platforms
+----------------------------------------------------------------------------------------
+1.  Hate Speech/Abusive Language Modeling in Social Media platforms
     - Might sound like a banal classification, but I am interested to dig into 
       the explainability of the system. Why it was detected as Hate Speech.
 
-2. Hostility Prediction in a zone from social media data and implement
+2.  Hostility Prediction in a zone from social media data and implement
     cautionary intervention mechanisms
     - ... ... still thinking about it.
 
-3. Anton
+3.  Anton
     - Conversational Bot that can impersonate a specific human being or anything.
       Search "Google's AI LaMDA"
     - I am specifically interested the applications of such a system in healthcare
       and education.
-___________________________________________________________________
+________________________________________________________________________________________
 
 
-___________________________________________________________________
+________________________________________________________________________________________
 Computer Vision + ... ...
--------------------------------------------------------------------
-1. Portal for teaching sign language
+----------------------------------------------------------------------------------------
+1.  Portal for teaching sign language
     - Exactly what it sounds like.
     - Might be a bit light to be considered as thesis work.
 
-2. Alternative Text v2.0 (Mongoldip?)
+2.  Alternative Text v2.0 (Mongoldip?)
     - Interactive alt-text to enhance browsing experience for blind
       or visually impared users.
     - The goal is to design and build an NPM package so that the service can
@@ -42,27 +42,27 @@ Computer Vision + ... ...
     - A big project, might be really hard for undergrad students to complete the project.
     - Readings - https://scholar.google.com/citations?hl=en&user=eJsW6W8AAAAJ&view_op=list_works&sortby=pubdate         
         
-3. Anomaly detection from CCTV footages
+3.  Anomaly detection from CCTV footages
     - I have no idea how to do that.
     - Dataset will be hard to manage.
 
-4. Auto report generator from medical images (X-Ray, CT Scan)
+4.  Auto report generator from medical images (X-Ray, CT Scan)
     - Recenty started working in this project with an awesome group from SEC. 
     - Will require medical knowledge (at least high level). Would be
       nice if we can add a Doctor or a person who already has some
       background knowledge.
     - Dataset will be limited.
 
-5. Automatic calculation of class attention score via students' gaze tracking.
+5.  Automatic calculation of class attention score via students' gaze tracking.
     - Limited scope for new collaborators to include anything new.
     - Open to discuss ideas about the application of computer vision in Education.
-___________________________________________________________________
+________________________________________________________________________________________
 
 
-___________________________________________________________________
+________________________________________________________________________________________
 Data Science + ... ...
--------------------------------------------------------------------
-1. Shochetan
+----------------------------------------------------------------------------------------
+1.  Shochetan
     - An android application that can show a "safe" route to a destination
       in a google map.
     - The "safeness" of a route will be defined by the "safeness" of different
@@ -71,18 +71,18 @@ Data Science + ... ...
       reported on that zone.
         - How will we get these reports? (Community Support?)
 
-2. What will be the next big trend (in Fashin, Movie or Television industry, etc)
+2.  What will be the next big trend (in Fashin, Movie or Television industry, etc)
     - No idea how to approach it.
-___________________________________________________________________
+________________________________________________________________________________________
 
 
-___________________________________________________________________
+________________________________________________________________________________________
 MISC
--------------------------------------------------------------------
-1. Recommendation Systems
+----------------------------------------------------------------------------------------
+1.  Recommendation Systems
     - Experimented with movie recommendations a long time ago.
 
-2. Robotics
+2.  Robotics
     - It might not be exactly considered as "Robotics", but I was the lead developer 
       of team SRBD_Hyperbola which won 3rd prize at Samsung RESEARCH Robot Hackathon - 2018.
       The idea was "BFF Robot". The idea was that, a robot will follow a baby, try to soothe 
@@ -96,11 +96,11 @@ MISC
       resource I mean both facility and knowledgeable personnel). But, if you have an interesting 
       idea, I will do what I can to support you.
 
-3. Gesture detection and/or Biometric detection from smartphone senson.
+3.  Gesture detection and/or Biometric detection from smartphone senson.
     - Another one of my works at Samsung.
     - Might be a bit hard to do anything that becomes publishable. Students should
       consider it as a fun project. (Maybe project 350?) 
-___________________________________________________________________
+________________________________________________________________________________________
 
 
 
