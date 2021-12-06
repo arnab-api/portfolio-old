@@ -12,10 +12,10 @@ NLP + ... ...
     - ... ... still thinking about it.
 
 3.  Anton
-    - Conversational Bot that can impersonate a specific human being or anything.
+    - Conversational Bot that can impersonate a specific human being or anything. 
       Search "Google's AI LaMDA"
     - I am specifically interested the applications of such a system in healthcare
-      and education.
+      and education. (Maybe not open domain? Readings: https://arxiv.org/pdf/1704.07130.pdf)
 ________________________________________________________________________________________
 
 
