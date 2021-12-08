@@ -25,7 +25,7 @@ accomplishments:
     name: Data-driven Humanitarian Mapping, KDD 2021
     url: https://kdd-humanitarian-mapping.herokuapp.com/
   citation: Md. Enamul Hoque, Md. Shariful Islam, <b style="color:#00004d; font-family:'Times New Roman'"><i>Arnab Sen Sharma</i></b>, Rashedul Islam, and Mohammad Ruhul Amin. 2021. "Challenges in Tracking the Risk of COVID-19 in Bangladesh; Evaluation of A Novel Method". In Proceedings of August 15 (KDD Workshop on Data-driven Humanitarian Mapping, 27th ACM SIGKDD Conference). ACM, New York, NY, USA.
-  publicationURL: "https://www.medrxiv.org/node/391340.external-links.html"
+  publicationURL: "https://www.medrxiv.org/content/10.1101/2021.08.03.21261567v1"
   talkURL: "https://drive.google.com/file/d/16RG24niUCnwoYl6iDJf2w4YY-y2cc2Ob/view"
 
 - name: Presenting a Larger Up-to-Date Movie Dataset and Investigating the Effects of Pre-Released Attributes on Gross Revenue

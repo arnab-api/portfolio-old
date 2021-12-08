@@ -16,6 +16,7 @@ company:
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Arnab_Sen_Sharma.pdf"
+google_scholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=8ihSLrwAAAAJ"
 
 # a summary about you
 summary: '<p align="justify">
