@@ -56,6 +56,10 @@ Computer Vision + ... ...
 5.  Automatic calculation of class attention score via students' gaze tracking.
     - Limited scope for new collaborators to include anything new.
     - Open to discuss ideas about the application of computer vision in Education.
+
+6.  Improve the quality of a video.
+    - From low resolution images to higher resolution images (autoencoders, generative modeling)
+    - Estimation of intermediate frames. (upsampling 60fps -> 120fps, maybe? Related projects: http://jianghz.me/projects/superslomo/)
 ________________________________________________________________________________________
 
 
