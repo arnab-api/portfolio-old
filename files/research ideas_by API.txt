@@ -4,8 +4,8 @@ ________________________________________________________________________________
 NLP + ... ... 
 ----------------------------------------------------------------------------------------
 1.  Hate Speech/Abusive Language Modeling in Social Media platforms
-    - Might sound like a banal classification, but I am interested to dig into 
-      the explainability of the system. Why it was detected as Hate Speech.
+    - Might sound like a banal classification problem, but I am interested to dig into 
+      the explainability of such systems. What makes a sentece detected as Hate Speech.
 
 2.  Hostility Prediction in a zone from social media data and implement
     cautionary intervention mechanisms
@@ -16,6 +16,23 @@ NLP + ... ...
       Search "Google's AI LaMDA"
     - I am specifically interested the applications of such a system in healthcare
       and education. (Maybe not open domain? Readings: https://arxiv.org/pdf/1704.07130.pdf)
+________________________________________________________________________________________
+
+
+________________________________________________________________________________________
+Data Science + ... ...
+----------------------------------------------------------------------------------------
+1.  Shochetan
+    - An android application that can show a "safe" route to a destination
+      in a google map.
+    - The "safeness" of a route will be defined by the "safeness" of different
+      zones in that route.
+    - "Zone-safety" will be defined by the number of accidents, mugging, etc. 
+      reported on that zone.
+        - How will we get these reports? (Community Support?)
+
+2.  What will be the next big trend (in Fashin, Movie or Television industry, etc)
+    - Readings => https://sites.google.com/site/datascienceslab/publications
 ________________________________________________________________________________________
 
 
@@ -61,24 +78,6 @@ Computer Vision + ... ...
     - From low resolution images to higher resolution images (autoencoders, generative modeling)
     - Estimation of intermediate frames. (upsampling 60fps -> 120fps, maybe? Related projects: http://jianghz.me/projects/superslomo/)
 ________________________________________________________________________________________
-
-
-________________________________________________________________________________________
-Data Science + ... ...
-----------------------------------------------------------------------------------------
-1.  Shochetan
-    - An android application that can show a "safe" route to a destination
-      in a google map.
-    - The "safeness" of a route will be defined by the "safeness" of different
-      zones in that route.
-    - "Zone-safety" will be defined by the number of accidents, mugging, etc. 
-      reported on that zone.
-        - How will we get these reports? (Community Support?)
-
-2.  What will be the next big trend (in Fashin, Movie or Television industry, etc)
-    - No idea how to approach it.
-________________________________________________________________________________________
-
 
 ________________________________________________________________________________________
 MISC
