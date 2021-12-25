@@ -14,7 +14,9 @@ skills:
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Proficient in various ML libraries like Tensorflow2.0, PyTorch, scikit-learn etc. Experienced in web development (<b><i>Flask, Django</i></b>) using python"
+  summary: 'Proficient in various machine learning libraries like 
+  <b style="font-family:verdana"><i>Tensorflow2.0, PyTorch, scikit-learn</i></b> and others. Experienced in web development 
+  (<b style="font-family:verdana"><i>Flask, Django</i></b>) using python'
 
 - name: C++
   logo: /images/sections/skills/c++.png

@@ -1,0 +1,20 @@
+# section information
+section:
+  name: Misc
+  id: skills
+  enable: true
+  weight: 11
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Typing
+  logo: /images/sections/skills/typeracer.png
+  summary: '<center><a href="https://data.typeracer.com/pit/profile?user=arnab_api&ref=badge" target="_top">
+              <img src="https://data.typeracer.com/misc/badge?user=arnab_api" border="0" alt="TypeRacer.com scorecard for user arnab_api"/>
+            </a><center/>'
+  url: "https://data.typeracer.com/pit/profile?user=arnab_api"
+
