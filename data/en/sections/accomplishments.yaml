@@ -16,7 +16,13 @@ accomplishments:
   organization:
     name: Samsung Research
     url: https://research.samsung.com
-  courseOverview: This competition allowed participants to work with freshly manufactured lines of robots by Samsung. I participated in that competition with an idea called <b>BFF Robot</b> as part of the team <i>SRBD_Hyperbola</i>. The idea was that a robot would become the daily companion of a child, adapting to the child as s/he grows; eventually, the child and the robot would become <i>Best Friends Forever</i>. We secured 3<sup>rd</sup> place among more than 500 teams participating in that contest from all over the world.
+  courseOverview: 'This competition allowed participants to work with freshly manufactured lines of 
+  robots by Samsung. I participated in that competition with an idea called 
+  <b style="font-family:verdana">BFF Robot</b> as part of the team <b style="font-family:verdana">SRBD_Hyperbola</b>. 
+  The idea was that a robot would become the daily companion of a child, adapting to the child as s/he 
+  grows; eventually, the child and the robot would become <i style="font-family:verdana">Best Friends Forever!</i> 
+  We secured <b style="font-family:verdana">3<sup>rd</sup></b> place with the global participation of more than 500
+  teams, and won a prize money worth of <b style="font-family:verdana">1000 USD.</b>'
   certificateURL: "https://github.com/arnab-api/Online-Courses-Certificates-and-Exercise-Files-/blob/master/robot%20hackathon.jpg"
 
 - name: Samsung Professional

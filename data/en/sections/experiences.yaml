@@ -15,7 +15,7 @@ experiences:
     url: "https://www.sust.edu/d/cse"
     location: Sylhet
     # company overview
-    overview: Kindly checkout my faculty profile at SUST <a href=https://www.sust.edu/d/cse/faculty-profile-detail/700 target="_blank" rel="noopener"><b style="color:#00004d; font-family:'Times New Roman'"><i>here</i></b></a>.
+    overview: Kindly checkout my faculty profile at SUST <a href=https://www.sust.edu/d/cse/faculty-profile-detail/700 target="_blank" rel="noopener"><b style="color:#00004d; font-family:'Times New Roman'"><i><u>here</u></i></b></a>.
   positions:
   - designation: Lecturer
     start: July, 2019
@@ -53,7 +53,7 @@ experiences:
     start: August, 2019
     # end: May 2017
     responsibilities:
-    - Member of a panel that wrote a project proposal entitled <i>”A BiLSTM based Deep Learning Approach for Hate Speech Detection in Bangla Text and a Benchmark Dataset for Hate Speech in Bangla”</i>. The proposed project won a research grant worth <b>2,30,000 BDT</b> from SUST Research Centre (Project ID; AS/2020/1/26).
+    - Member of a panel that wrote a project proposal entitled <i>”A BiLSTM based Deep Learning Approach for Hate Speech Detection in Bangla Text and a Benchmark Dataset for Hate Speech in Bangla”</i>. The proposed project won a research grant worth <b style="color:#00004d; font-family:'Times New Roman'">2,30,000 BDT</b> from SUST Research Center (Project ID; <b style="font-family:verdana">AS/2020/1/26)</b>.
     - Advising undergrad students who are conducting research in Data Science and Machine Learning related domains.
     - Conducted workshops on basic Data‐Science and Machine Learning to train up undergrad students of CSE department, SUST for their final year research work.
 
@@ -69,12 +69,12 @@ experiences:
     responsibilities:
     - Worked on a Robot Simulation Project. 
       <ul>
-        <li>Coded the core features of Object Detection for robot navigation using <b>YOLOv3</b>.</li>
-        <li>Baby-Crying sound detection on Android devices using <b>Tensorflow-lite</b>.</li>
+        <li>Coded the core features of Object Detection for robot navigation using <b style="font-family:verdana">YOLOv3</b>.</li>
+        <li>Baby-Crying sound detection on Android devices using <b style="font-family:verdana">Tensorflow-lite</b>.</li>
       </ul>
-    - Implemented some features of Chromium-efl for Tizen wearable (c++).
-    - Designed and developed apps for Android platform (java).
-    - Designed and developed apps for Tizen platform (c++).
+    - Implemented some features of Chromium-efl for Tizen wearable (<b style="font-family:verdana">C++</b>).
+    - Designed and developed apps for Android platform (<b style="font-family:verdana">Java</b>).
+    - Designed and developed apps for Tizen platform (<b style="font-family:verdana">C++</b>).
     - Built sensor data collection apps for Android Smartphones and Tizen watches.
     - Research on unique gesture detection on Android Smartphones and Tizen watches.
 

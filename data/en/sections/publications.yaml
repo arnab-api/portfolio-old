@@ -35,7 +35,7 @@ accomplishments:
     url: https://thescipub.com/jcs/current
   citation: <b style="color:#00004d; font-family:'Times New Roman'"><i>Sharma, A. S.</i></b>, Roy, T., Rifat, S. A. & Mridul, M. A. (2021). Presenting a Larger Up-to-Date Movie Dataset and Investigating the Effects of Pre-Released Attributes on Gross Revenue. Journal of Computer Science, 17(10), 870-888. https://doi.org/10.3844/jcssp.2021.870.888
   publicationURL: "https://thescipub.com/abstract/jcssp.2021.870.888"
-  arxivURL: "https://arxiv.org/pdf/2110.07039.pdf"
+  arxivURL: "https://arxiv.org/abs/2110.07039"
   # talkURL: "https://drive.google.com/file/d/16RG24niUCnwoYl6iDJf2w4YY-y2cc2Ob/view"
 
 - name: Automatic Detection of Satire in Bangla Documents; A CNN Approach Based on Hybrid Feature Extraction Model
