@@ -30,22 +30,20 @@ skills:
   sensor data collection and on-device recognition and classification tasks using 
   <b style="font-family:verdana"><i>Tensorflow-lite</i></b>. Also, built desktop applications using Java.'
 
-- name: ReactJS
-  logo: /images/sections/skills/react.png
-  summary: 'Developed websites using ReactJS as frondend. One live site is available
-  <a href="http://erdos.dsm.fordham.edu:3000/" target="_blank"><b style="font-family:verdana"><u>here</u></b></a>.'
-
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: 'Using as the primary operating system. Capable of writing <b style="font-family:verdana"><i>bash/shell</i></b> scripts.'
+  summary: 'Using as the primary operating system. Capable of writing 
+  <b style="font-family:verdana"><i>bash/shell</i></b> scripts. Comfortable with terminal and 
+  basic UNIX commands. Adept in using <b style="font-family:verdana"><i>grep, screen,</i></b>
+  and other tools.'
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, used Github"
+  summary: "Experienced with git version control development. Mostly used Github"
 
 - name: JASP
   logo: /images/sections/skills/jasp.png
-  summary: "Used JASP for statistical analysis. Love this software."
+  summary: 'Used <b style="font-family:verdana">JASP</b> for statistical analysis. Love this software.'
   url: "https://jasp-stats.org/"
 
 # - name: Jamovi
@@ -53,3 +51,7 @@ skills:
 #   summary: "Recenly started learning this software"
 #   url: "https://jasp-stats.org/"
 
+- name: ReactJS
+  logo: /images/sections/skills/react.png
+  summary: 'Developed interactive websites using ReactJS as frondend. One live site is available
+  <a href="http://erdos.dsm.fordham.edu:3000/" target="_blank"><b style="font-family:verdana"><u>here</u></b></a>.'
