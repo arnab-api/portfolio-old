@@ -21,6 +21,12 @@
       {{ if .talkURL }}
         <a class="btn btn-outline-info ml-1 pl-2 mb-2" href="{{ .talkURL }}" target="_blank" rel="noopener" role="button"><b>My 5-Minute Talk</b></a>
       {{ end }}
+      {{ if .projectURL }}
+      <a class="btn btn-outline-info ml-1 pl-2 mb-2" href="{{ .projectURL }}" target="_blank" rel="noopener" role="button"><b>Project Website</b></a>
+      {{ end }}
+      {{ if .demoURL }}
+      <a class="btn btn-outline-info ml-1 pl-2 mb-2" href="{{ .demoURL }}" target="_blank" rel="noopener" role="button"><b>Interactive Demo</b></a>
+      {{ end }}
     </div>
   </div>
 </div>

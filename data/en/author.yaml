@@ -6,10 +6,10 @@ greeting: "Hi, I am"
 image: "images/author/arnab_pro_cropped.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "arnab.api@gmail.com, arnab-cse@sust.edu"
+  email: "arnab.api@gmail.com, sensharma.a@northeastern.edu"
   phone: "+880 1752833557"
 
 # some summary about what you do
 # <ul id="typing-carousel-data"> if you want typing style in the front page. I personally find it a little bit annoying.
-summary:
-  - I am interested in Data Science, NLP, and Computer Vision
+# summary:
+#   - PhD student in Northeastern University, interested in understanding how Large Language Models work.

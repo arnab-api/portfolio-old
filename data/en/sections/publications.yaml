@@ -11,13 +11,32 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: "HS-BAN: A Benchmark Dataset of Social Media Comments for Hate Speech Detection in Bangla"
+- name: "Mass-Editing Memory in a Transformer"
+  timeline: "Submitted September 28, 2022"
+  organization:
+    name: ArXiv Preprint
+    url: https://arxiv.org/abs/2210.07229
+  citation: Kevin Meng, <b style="color:#00004d; font-family:'Times New Roman'"><i>Arnab Sen Sharma</i></b>, Alex Andonian, Yonatan Belinkov, and David Bau. Submitted in ICLR 2023.
+  arxivURL: "https://arxiv.org/abs/2210.07229"
+  projectURL: https://memit.baulab.info/
+  demoURL: https://memit.baulab.us/
+
+- name: "Augmenting Online Classes with an Attention Tracking Tool May Improve Student Engagement"
+  # timeline: "Submitted December 3, 2021"
+  organization:
+    name: ArXiv Preprint
+    url: https://arxiv.org/abs/2210.07286
+  citation: <b style="color:#00004d; font-family:'Times New Roman'"><i>Arnab Sen Sharma</i></b>, Mohammad Ruhul Amin, and Muztaba Fuad.
+  arxivURL: "https://arxiv.org/abs/2210.07286"
+
+
+- name: "BD-SHS: A Benchmark Dataset for Learning to Detect Online Bangla Hate Speech in Different Social Contexts"
   timeline: "Submitted December 3, 2021"
   organization:
     name: ArXiv Preprint
-    url: https://arxiv.org/abs/2112.01902
-  citation: Nauros Romim, Mosahed Ahmed, Md Saiful Islam, <b style="color:#00004d; font-family:'Times New Roman'"><i>Arnab Sen Sharma</i></b>, Hriteshwar Talukder, Mohammad Ruhul Amin.
-  arxivURL: "https://arxiv.org/abs/2112.01902"
+    url: https://arxiv.org/abs/2206.00372
+  citation: Nauros Romim, Mosahed Ahmed, Md Saiful Islam, <b style="color:#00004d; font-family:'Times New Roman'"><i>Arnab Sen Sharma</i></b>, Hriteshwar Talukder, Mohammad Ruhul Amin. "BD-SHS A Benchmark Dataset for Learning to Detect Online Bangla Hate Speech in Different Social Contexts". Prested as a poster in LREC 2022
+  arxivURL: "https://arxiv.org/abs/2206.00372"
 
 - name: Challenges in Tracking the Risk of COVID-19 in Bangladesh; Evaluation of A Novel Method
   timeline: "August 15, 2021"
